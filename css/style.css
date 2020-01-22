@@ -37,10 +37,10 @@ h1, h2, h3, h4, h5, h6{
     color: #4B4B4C;
 }
 a{
-    color: #5fcf80;
+    color: sandybrown;
 }
 a:hover, a:focus{
-    color: #5fcf80;
+    color: sandybrown;
 }
 /***********************************
 Navigation bar
@@ -66,25 +66,25 @@ Navigation bar
 }
 .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover
 {
-	color: #5FCF80;
+	color: sandybrown;
 }
 
 .navbar-nav .active a{
     background: none !important;
-    color: #5FCF80 !important;
+    color: sandybrown !important;
     outline: none;
 }
 
 .btn-trial a{
-	background-color: #5FCF80;
+	background-color: sandybrown;
 	border-radius: 25px;
 	color: #ffffff !important;
-	border: 1px solid #5FCF80;
+	border: 1px solid sandybrown;
 }
 .btn-trial a:hover, .btn-trial a:focus{
-	border: 1px solid #5FCF80;
+	border: 1px solid sandybrown;
 	background-color: #fff;
-	color: #5FCF80 !important;
+	color: sandybrown !important;
 }
 .navbar-default .navbar-brand {
     font-family: 'Dosis', sans-serif !important;
@@ -221,7 +221,7 @@ Banner
     font-size: 16px;
 }
 .quote .btn{
-    background-color: #5fcf80;
+    background-color: sandybrown;
     color: #fff;
     -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -230,7 +230,7 @@ Banner
 }
 .quote .btn:hover, .quote .btn:focus{
     background-color: #fff;
-    color: #5fcf80;
+    color: sandybrown;
     border-color: #fff;
      -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -259,7 +259,7 @@ h2{
 }
 .fea i {
     font-size: 39px;
-    color: #5FCF80;
+    color: sandybrown;
     margin-top: 7px;
 }
 .heading h4 {
@@ -281,7 +281,7 @@ h2{
 }
 .orga-stru
 {
-    background-color: #5FCF80;
+    background-color: sandybrown;
     width: 109px;
     height: auto;
     padding: 10px 10px 25px 10px;
@@ -315,7 +315,7 @@ h3.det-txt {
     text-transform: uppercase;
 }
 h4.sm-txt {
-    color: #5FCF80;
+    color: sandybrown;
     font-size: 24px;
 }
 p.det-p {
@@ -346,7 +346,7 @@ Cta
     min-width: 280px;
     margin-left: -4px;
     margin-bottom: 2px;
-    border: 1px solid #5fcf80;
+    border: 1px solid sandybrown;
     background-color: rgb(247, 247, 247);
     border-radius: 30px 0px 0px 30px;
 }
@@ -354,7 +354,7 @@ Cta
     font-size: 18px;
     text-transform: capitalize;
     color: #fff;
-    background-color: #5fcf80;
+    background-color: sandybrown;
     border: 2px solid #fff;
     padding: 14px 30px;
     margin-left: -4px;
@@ -377,7 +377,7 @@ Work Shop
     box-shadow: 0px 0px 1px 1px rgba(0,0,0,0.1);
 }
 .icon-box i {
-    color: #5FCF80;
+    color: sandybrown;
     font-size: 65px;
 }
 .ser-text {
@@ -436,10 +436,10 @@ Testimonial
 Course
 ************************************/
 [class*=" imghvr-"] figcaption, [class^="imghvr-"] figcaption {
-    background-color: #5FCF80;
+    background-color: sandybrown;
 }
 [class*=" imghvr-"], [class^="imghvr-"] {
-    background-color: #5FCF80;
+    background-color: sandybrown;
     color: #fff;
 }
 /***********************************
@@ -483,7 +483,7 @@ Price Table
     padding: 20px 0px;
     font-weight: bold !important;
     font-size: 14px;
-    background-color: #5fcf80;
+    background-color: sandybrown;
 }
 /***********************************
 Contact Us
@@ -601,14 +601,14 @@ Footer
     border-bottom: 1px solid rgba(255,255,255,0.2);
 }
 .btn-submit:hover, .btn-submit:focus{
-    background-color: #5fcf80;
+    background-color: sandybrown;
     color: #fff;
 }
 .btn-submit{
 	padding: 14px 12px;
 	border-radius: 50px;
 	text-transform: uppercase;
-    background-color: #5fcf80;
+    background-color: sandybrown;
     color: #fff;
 }
 .btn-submit i{
@@ -656,7 +656,7 @@ Footer
     padding: 10px 20px;
 }
 .light-form-button{
-    background: #5fcf80;
+    background: sandybrown;
     border: 1px solid rgba(119, 81, 81, 0.34);
     width: 24%;
     padding: 10px 10px;
@@ -670,7 +670,7 @@ Footer
   transition: all 0.3s ease-in-out;
 }
 .btn-green, .btn-green:hover{
-    background-color: #5fcf80;
+    background-color: sandybrown;
     color: #fff;
 }
 .footer .form-control:focus{
